@@ -12,4 +12,3 @@
 
   # In case clangd doesnt recognize standard headers
   https://stackoverflow.com/questions/74785927/clangd-doesnt-recognize-standard-headers
-  - dont forget to download build-essential package.
