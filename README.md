@@ -1,4 +1,4 @@
-# The process to install
+# The process to install the latest version on mint
 - Remove the current version of NeoVim ```sudo apt-remove neovim```.
 - Download [the latest version](https://github.com/neovim/neovim/releases).
 - ```cd``` into the directory it was downloaded to e.g. ```cd ~/Downloads```
